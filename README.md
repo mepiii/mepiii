@@ -17,6 +17,6 @@ I am an **AI Engineer** passionate about building intelligent systems and automa
 - System-level engineering
 
 ### 📈 Activity
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mepiii&theme=radical&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mepiii&theme=tokyonight&hide_border=true&area=true)
 
 ---

@@ -1,5 +1,3 @@
-<div align="center">
-
 # hi, i'm mepi
 
 [ short bio ]
@@ -25,5 +23,3 @@
 
 ---
 *Minimalist. Efficient. Automated.*
-
-</div>

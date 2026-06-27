@@ -16,7 +16,4 @@ I am an AI Engineer passionate about building intelligent systems and automated 
 - Optimizing automated workflows
 - System-level engineering
 
-### Activity
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=mepiii&show_icons=true&hide_border=true&count_private=true)
-
 ---

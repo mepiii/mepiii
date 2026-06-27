@@ -1,25 +1,22 @@
 # hi, i'm mepi
 
-[ short bio ]
-- 🎓 currently studying **information systems**
-- 🖥️ linux addict
+I am an **AI Engineer** passionate about building intelligent systems and automated workflows.
 
-[ personality ]
-- minimalist by preference
-- efficiency over formality
+### 🎓 Bio
+- Information Systems Student
+- Linux Addict
 
-[ tech stacks ]
-- python - linux - docker - fullstack web - backend - ai - machine learning
+### 🛠 Tech Stacks
+- Machine Learning & AI
+- Fullstack Web Development
+- Automation & Linux Systems
 
-[ focus ]
-- machine learning
-- artificial intelligence
-- fullstack web development
-- automation tools
+### 🎯 Focus
+- Building AI agents and LLM applications
+- Optimizing automated workflows
+- System-level engineering
 
-[ goals ]
-- becoming an **ai engineer**
-- becoming a **machine learning engineer**
+### 📈 Activity
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mepiii&theme=radical&hide_border=true)
 
 ---
-*Minimalist. Efficient. Automated.*

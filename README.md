@@ -1,23 +1,29 @@
 <div align="center">
 
-# mepi
+# hi, i'm mepi
 
-Software Engineer | Machine Learning | Artificial Intelligence | Fullstack
+[ short bio ]
+- 🎓 currently studying **information systems**
+- 🖥️ linux addict
+
+[ personality ]
+- minimalist by preference
+- efficiency over formality
+
+[ tech stacks ]
+- python - linux - docker - fullstack web - backend - ai - machine learning
+
+[ focus ]
+- machine learning
+- artificial intelligence
+- fullstack web development
+- automation tools
+
+[ goals ]
+- becoming an **ai engineer**
+- becoming a **machine learning engineer**
 
 ---
-
-### Focus
-1. **Machine Learning**
-2. **Artificial Intelligence**
-3. **Fullstack Web Development**
-
----
-
-### Environment
-Arch Linux • Fish Shell • Automated Workflows
-
----
-
 *Minimalist. Efficient. Automated.*
 
 </div>

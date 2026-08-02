@@ -1,4 +1,4 @@
-<h1 align="left" id="mepi-title">:wave: Hi there! I'm mepi</h1>
+<h1 align="left" id="mepi-title"><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hellooo there!! I'm mepi </h1>
 
 <p align="left">
   <a href="https://github.com/mepiii"><img src="https://komarev.com/ghpvc/?username=mepiii" alt="page views" /></a>
@@ -7,16 +7,13 @@
   <a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
-<a href="#mepi-title"><img src="https://github-readme-stats.vercel.app/api?username=mepiii&show_icons=true&theme=radical" alt="mepiii" align="right" /></a>
-<a href="#mepi-title"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mepiii&theme=radical" alt="mepiii streak" align="right" /></a>
-
-- :mortar_board: &nbsp;Currently studying at **UNSRI** and **UT**
+- :mortar_board: &nbsp;Currently studying at **Sriwijaya University** and **Terbuka University**
 - :seedling: &nbsp;Currently interested in making **pixel games**
 - :speech_balloon: &nbsp;I like to talk about **web dev**, **ML**, and **game dev**
 
 <br>
 
-<h2 align="left" id="mepi-tech">Favorite Tech</h2>
+<h2 align="left" id="mepi-tech">Techstacks</h2>
 
 > Languages, frameworks, databases, and tools I like to work with.
 
@@ -136,17 +133,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  0.0 hr  ┤
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->

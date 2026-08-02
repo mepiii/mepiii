@@ -11,8 +11,6 @@
 - :seedling: &nbsp;Currently interested in making **pixel games**
 - :speech_balloon: &nbsp;I like to talk about **web dev**, **ML**, and **game dev**
 
-<br>
-
 <h2 align="left" id="mepi-tech">Techstacks</h2>
 
 > Languages, frameworks, databases, and tools I like to work with.

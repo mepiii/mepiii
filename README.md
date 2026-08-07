@@ -15,15 +15,12 @@
 
 > Languages, frameworks, databases, and tools I like to work with.
 
+<!-- Languages -->
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TypeScript" /></a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JavaScript" /></a>
-      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /></a>
@@ -44,6 +41,7 @@
   </tr>
 </table>
 
+<!-- Frameworks -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -71,12 +69,39 @@
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="40" height="40" alt="TensorFlow" /></a>
-      <br>TensorFlow
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express.js" /></a>
+      <br>Express.js
     </td>
   </tr>
 </table>
 
+<!-- AI & Data -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="40" height="40" alt="TensorFlow" /></a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch" /></a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/numpy" width="40" height="40" alt="NumPy" /></a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/pandas" width="40" height="40" alt="Pandas" /></a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-learn" /></a>
+      <br>Scikit-learn
+    </td>
+  </tr>
+</table>
+
+<!-- Database -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -92,12 +117,13 @@
       <br>Supabase
     </td>
     <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /></a>
-      <br>Firebase
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/prisma" width="40" height="40" alt="Prisma" /></a>
+      <br>Prisma
     </td>
   </tr>
 </table>
 
+<!-- Cloud & DevOps -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -105,29 +131,20 @@
       <br>Docker
     </td>
     <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40" alt="AWS" /></a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/nginx" width="40" height="40" alt="Nginx" /></a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="#mepi-tech"><img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" /></a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
       <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png" width="40" height="40" alt="Vercel" /></a>
       <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/railway.svg" width="40" height="40" alt="Railway" /></a>
-      <br>Railway
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" /></a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" /></a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter Notebook" /></a>
-      <br>Jupyter Notebook
     </td>
   </tr>
 </table>

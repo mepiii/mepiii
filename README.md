@@ -16,159 +16,74 @@
 >  Technologies I use to build web applications, AI solutions, cloud infrastructure, and games.
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="32" height="32" alt="TypeScript"/></a><br>TypeScript
-    </td>
-    <td align="center" width="88">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="32" height="32" alt="Python"/></a><br>Python
-    </td>
-    <td align="center" width="88">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" width="32" height="32" alt="PHP"/></a><br>PHP
-    </td>
-    <td align="center" width="88">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="32" height="32" alt="Java"/></a><br>Java
-    </td>
-    <td align="center" width="88">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="32" height="32" alt="C"/></a><br>C
-    </td>
-    <td align="center" width="88">
-      <a href="#mepi-tech"><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="32" height="32" alt="C++"/></a><br>C++
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="28"><br><sub>TypeScript</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="28"><br><sub>Python</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" width="28"><br><sub>PHP</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="28"><br><sub>Java</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="28"><br><sub>C</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="28"><br><sub>C++</sub></td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="32" height="32"/><br>React
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="32" height="32"/><br>Next.js
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="32" height="32"/><br>Vue.js
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="32" height="32"/><br>Tailwind
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/greensock" width="32" height="32"/><br>GSAP
-    </td>
-<td align="center" width="88">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
-       width="32" height="32" alt="Three.js"/>
-  <br>Three.js
-  </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" width="32" height="32"/><br>Laravel
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" width="32" height="32"/><br>FastAPI
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="28"><br><sub>React</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="28"><br><sub>Next.js</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="28"><br><sub>Vue.js</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="28"><br><sub>Tailwind</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/greensock" width="28"><br><sub>GSAP</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="28"><br><sub>Three.js</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" width="28"><br><sub>Laravel</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" width="28"><br><sub>FastAPI</sub></td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="32" height="32"/><br>TensorFlow
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/pytorch" width="32" height="32"/><br>PyTorch
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/numpy" width="32" height="32"/><br>NumPy
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/pandas" width="32" height="32"/><br>Pandas
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/scikitlearn" width="32" height="32"/><br>Scikit-learn
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="28"><br><sub>TensorFlow</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/pytorch" width="28"><br><sub>PyTorch</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/numpy" width="28"><br><sub>NumPy</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/pandas" width="28"><br><sub>Pandas</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/scikitlearn" width="28"><br><sub>Scikit-learn</sub></td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="32" height="32"/><br>PostgreSQL
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="32" height="32"/><br>MySQL
-    </td>
-    <td align="center" width="88">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="32" height="32"/><br>MariaDB
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" width="32" height="32"/><br>SQLite
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png" width="32" height="32"/><br>Supabase
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="32" height="32"/><br>Firebase
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="28"><br><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="28"><br><sub>MySQL</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="28"><br><sub>MariaDB</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" width="28"><br><sub>SQLite</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png" width="28"><br><sub>Supabase</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="28"><br><sub>Firebase</sub></td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="32" height="32"/><br>Docker
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/><br>AWS
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/nginx" width="32" height="32"/><br>Nginx
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/githubactions" width="32" height="32"/><br>GitHub Actions
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png" width="32" height="32"/><br>Vercel
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="28"><br><sub>Docker</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28"><br><sub>AWS</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nginx" width="28"><br><sub>Nginx</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/githubactions" width="28"><br><sub>Actions</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png" width="28"><br><sub>Vercel</sub></td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="32" height="32" alt="Playwright"/>
-      <br>Playwright
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="32" height="32" alt="Vitest"/>
-      <br>Vitest
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="32" height="32" alt="Pytest"/>
-      <br>Pytest
-    </td>
-  <td align="center" width="88">
-  <img src="https://phpunit.de/img/phpunit.svg"
-       width="32" height="32" alt="PHPUnit"/>
-  <br>PHPUnit
-  </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/insomnia" width="32" height="32" alt="Insomnia"/>
-      <br>Insomnia
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/lighthouse" width="32" height="32" alt="Lighthouse"/>
-      <br>Lighthouse
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="28"><br><sub>Playwright</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="28"><br><sub>Vitest</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="28"><br><sub>Pytest</sub></td>
+<td align="center"><img src="https://phpunit.de/img/phpunit.svg" width="28"><br><sub>PHPUnit</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/insomnia" width="28"><br><sub>Insomnia</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/lighthouse" width="28"><br><sub>Lighthouse</sub></td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/fedora" width="32" height="32"/><br>Fedora
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/archlinux" width="32" height="32"/><br>Arch Linux
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="28"><br><sub>Fedora</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="28"><br><sub>Arch Linux</sub></td>
+</tr>
 </table>
